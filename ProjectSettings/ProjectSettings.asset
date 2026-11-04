@@ -733,11 +733,11 @@ PlayerSettings:
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 
+  cloudProjectId: 20c0a598-d89c-4c3f-88fa-045f6bc24e46
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: S2_Liu_Zifan
+  organizationId: unity_31ricardolau
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
